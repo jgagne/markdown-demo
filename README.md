@@ -8,3 +8,22 @@ This is a paragraph.
 
 ![Image test for orientation](img/optimized-no-exif-data.jpg)
 ![Image test for orientation](img/ps-rotate-save-for-web.jpg)
+
+- - -
+
+## Best Practices†
+
+### Naming (Conventions) Things
+
+- Use lowercase for naming files, folders, and in markup
+- Use a hyphen (-) or an underscore (_) and not a space (%20) when separating phrases in naming files, folders, and in markup
+
+### Project (Folder, Repo) Structure
+
+#### For Example
+
+- project-name
+  - README.md
+  - index.md
+  - index.html
+  - img/
