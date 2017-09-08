@@ -1,4 +1,13 @@
-# Summary
+# Ebb & Flow
+## Work in Progress
+
+- [Draft](#draft)
+- [Revision](#revision)
+- [Best Practices](#best-practices)
+
+- - -
+
+# Draft
 
 This is a paragraph.
 
@@ -11,7 +20,11 @@ This is a paragraph.
 
 - - -
 
-## Best Practices†
+# Revision
+
+- - -
+
+## Best Practices
 
 ### Naming (Conventions) Things
 
